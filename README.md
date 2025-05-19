@@ -7,6 +7,6 @@ Keras API documentation has an excellent guide on making a very similar model fr
 
 ## Requirements:
 
-  -jupyter lab 4.3.5
-  -tensorflow 2.10.0
-  -matplotlib 3.10.0
+  - jupyter lab 4.3.5
+  - tensorflow 2.10.0
+  - matplotlib 3.10.0
