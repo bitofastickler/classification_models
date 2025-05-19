@@ -5,7 +5,8 @@ cat_dog_cnn and cat_dog_cnn2.0 are a couple of simple exploratory attempts at bu
 
 Keras API documentation has an excellent guide on making a very similar model from scratch. Read it and improve on what you find here - https://keras.io/examples/vision/image_classification_from_scratch/
 
-## Requirements
+## Requirements:
+
   -jupyter lab 4.3.5
   -tensorflow 2.10.0
   -matplotlib 3.10.0
